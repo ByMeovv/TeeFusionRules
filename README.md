@@ -58,10 +58,11 @@
 
 > 1.6 ▸ Социальные площадки/платформы сообщества:
 Платформа
- > - Discord
- > - Telegram
- > - Twitch
- > - YouTube
+ > - [Discord](https://discord.com/invite/FX35krDP3a)
+ > - [Telegram](https://t.me/TeeFusionTW)
+ > - [Twitch](https://twitch.tv/teefusiontw)
+ > - [YouTube](https://www.youtube.com/@TeeFusionCommunity)
+ > - [Tik Tok](https://www.tiktok.com/@teefusiontw)
 
 > 1.7 ▸ Решения администрации имеют приоритет над правилами и являются
 окончательными.
